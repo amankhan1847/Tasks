@@ -1,0 +1,15 @@
+C:\Users\Dell\Favorites\MyDotNetProject\bin\Debug\net6.0\MyDotNetProject.exe
+C:\Users\Dell\Favorites\MyDotNetProject\bin\Debug\net6.0\MyDotNetProject.deps.json
+C:\Users\Dell\Favorites\MyDotNetProject\bin\Debug\net6.0\MyDotNetProject.runtimeconfig.json
+C:\Users\Dell\Favorites\MyDotNetProject\bin\Debug\net6.0\MyDotNetProject.dll
+C:\Users\Dell\Favorites\MyDotNetProject\bin\Debug\net6.0\MyDotNetProject.pdb
+C:\Users\Dell\Favorites\MyDotNetProject\obj\Debug\net6.0\MyDotNetProject.csproj.AssemblyReference.cache
+C:\Users\Dell\Favorites\MyDotNetProject\obj\Debug\net6.0\MyDotNetProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Favorites\MyDotNetProject\obj\Debug\net6.0\MyDotNetProject.AssemblyInfoInputs.cache
+C:\Users\Dell\Favorites\MyDotNetProject\obj\Debug\net6.0\MyDotNetProject.AssemblyInfo.cs
+C:\Users\Dell\Favorites\MyDotNetProject\obj\Debug\net6.0\MyDotNetProject.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Favorites\MyDotNetProject\obj\Debug\net6.0\MyDotNetProject.dll
+C:\Users\Dell\Favorites\MyDotNetProject\obj\Debug\net6.0\refint\MyDotNetProject.dll
+C:\Users\Dell\Favorites\MyDotNetProject\obj\Debug\net6.0\MyDotNetProject.pdb
+C:\Users\Dell\Favorites\MyDotNetProject\obj\Debug\net6.0\MyDotNetProject.genruntimeconfig.cache
+C:\Users\Dell\Favorites\MyDotNetProject\obj\Debug\net6.0\ref\MyDotNetProject.dll
